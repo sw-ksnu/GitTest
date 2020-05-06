@@ -1,2 +1,4 @@
-# android_git_test
+# GitTest
 안드로이드에서 깃허브 연결하기 테스트
+
+저장소의 생성과 동시에 파일을 push된다.
